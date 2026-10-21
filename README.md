@@ -76,6 +76,7 @@ Open `index.html` in your browser and press "Play Our Song" in the music section
 7. Wait about a minute. GitHub will give you a public website link.
 
 Your site URL will usually look like:
+Republishing website
 
 ```text
 https://your-username.github.io/your-repo-name/
